@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey! I'm Tina Liu :)
 I'm an aspiring Project Manager with a focus in UI/UX design. <br>🔍 I'm currently seeking a summer 2024 internship in web development, project management, or UI/UX design.<br>📍 Currently on exchange at the National University of Singapore!<br>🏫  I'm a 3rd year student at the University of British Columbia majoring in CS and minoring in Management<br>👩🏻‍💻 Some of my past experiences include a backend engineer intern at Perceptify, Lead Curriculum Developer at AiTudier, and recruiting coordinator for Birdseye Publication. <br>🙌🏻  At UBC I was the Events Coordinator of the QSCU, VP of the UBCO Tennis Club, Social Media Coordinator of the Phoenix News (student-run newspaper of UBCO), Undergraduate Teaching Assistant, and Orientation Leader.<br>
 
 
